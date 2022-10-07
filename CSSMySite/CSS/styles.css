@@ -3,6 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1rem;
     background-color: #dededc;
 }
 
@@ -51,14 +52,14 @@ hr {
     margin: 50px auto;
 }
 
-a {
+.footer-link {
     color: #4A5916;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
-a:hover {
+.footer-link:hover {
     color: #697d21;
 }
 
@@ -99,7 +100,7 @@ a:hover {
 }
 
 .skill-row {
-    margin: 100px auto;
+    margin: 50px auto;
     width: 60%;
     text-align: left;
 
